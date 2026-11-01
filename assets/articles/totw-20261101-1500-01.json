@@ -1,0 +1,23 @@
+{
+ "item_id": "totw-20261101-1500-01",
+ "headline": "Qatari LNG carrier Al Mayeda struck by 'unidentified objects' in Gulf waters Friday evening Oct 30",
+ "dek": "[PRIMARY-SOURCE CLAIM -- Nakilat via QNA] The LNG carrier Al Mayeda, belonging to Qatar Gas Transport Company (Nakilat), was struck by 'unidentified objects' while sailing in Gulf waters on Friday evening Oct 30. No crew members were injured, no environmental impact was reported, and the vessel is…",
+ "verification": "STRONGLY SUPPORTED",
+ "verification_class": "ok",
+ "sources": "Qatar Gas Transport Company (Nakilat) statement, published via Qatar Stock Exchange, relayed by Qatar News Agency (QNA)",
+ "fault_line": "Who hit a Qatari ship -- and can Qatar still mediate a Hormuz deal while its own LNG carriers are targets?",
+ "significance": 3,
+ "demand": 4,
+ "date_led": "2026-11-01",
+ "sections": {
+  "what_happened": "[PRIMARY-SOURCE CLAIM -- Nakilat via QNA] The LNG carrier Al Mayeda, belonging to Qatar Gas Transport Company (Nakilat), was struck by 'unidentified objects' while sailing in Gulf waters on Friday evening Oct 30. No crew members were injured, no environmental impact was reported, and the vessel is in a 'safe condition' and operational while the impact is assessed. [ATTRIBUTED CONTEXT -- outlets, NOT the statement] Arab News / Times of Israel / AJ frame the strike amid Iran targeting vessels in Hormuz and the wider Gulf; the Nakilat statement itself does NOT name an attacker and does NOT say whether the weapon was a missile, drone, mine or other object. [ATTRIBUTED MARKET CONTEXT -- Colombo Tribune Nov 1] Brent ended Friday at $117.64/barrel, +2.4%, after a Hormuz tanker attack. COUNTERPOINT / CAUTION: The Levant Files live blog (Nov 1, 11:10 Cyprus) explicitly notes the statement 'does not identify the attacker or establish whether a missile, drone, mine or another weapon was involved' -- any narration attributing this strike to Iran would exceed the primary source. PortWatch backbone: newest snapshot remains portwatch-2026-10-26.json, observations Oct 18 (Hormuz 4 transits, 7-day avg 3.7 vs 2025 baseline 85.5/day), stale=true -- counted figure WITHHELD as live, cited only as stale.",
+  "what_verified": "Primary statement relayed by 3 tiered publisher families plus the primary source itself; all relays trace to the single Nakilat statement, so corroboration is of the statement's existence and wording, not of independent confirmation of the attack",
+  "what_disputed": "No independent (non-QNA) confirmation of the strike located; no attacker claim by any party located; the statement's 'unidentified objects' wording is the only attribution on record. Outlets' Iran-framing is context, not evidence about this vessel.",
+  "why_matters": "The mediator's own tanker was hit: Qatar's LNG carrier Al Mayeda struck Friday evening while Doha mediates the Hormuz reopening -- attacker still unnamed, vessel still sailing.",
+  "context": "Background: MISSED CATCH-UP (first publication Sunday morning, absent from all prior Nov 1 scans; AJ republication 10:21Z = 14:21 in-window) -- Qatari LNG carrier Al Mayeda struck by 'unidentified objects' in Gulf waters Friday evening Oct 30; no injuries, no environmental impact, vessel safe and operational; attacker NOT identified in the primary statement"
+ },
+ "totw_analysis": "Our read: The mediator's own tanker was hit: Qatar's LNG carrier Al Mayeda struck Friday evening while Doha mediates the Hormuz reopening -- attacker still unnamed, vessel still sailing. The fault line our audience is arguing over: Who hit a Qatari ship -- and can Qatar still mediate a Hormuz deal while its own LNG carriers are targets?",
+ "related_short_title": "Why a Single Tanker Attack Pushed Oil Past $105",
+ "related_short_url": "https://youtube.com/shorts/YcI5CyZJ2fQ",
+ "narration_chars": 3187
+}
