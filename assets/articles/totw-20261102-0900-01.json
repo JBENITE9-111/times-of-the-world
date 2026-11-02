@@ -1,0 +1,38 @@
+{
+ "item_id": "totw-20261102-0900-01",
+ "headline": "Trump at final midterm rally in Salina, Kansas",
+ "dek": "Trump told his 30th and final midterm rally in Salina, Kansas that Washington has 'dominated' Iran and 'we can close them down anytime we want'; 'We're trying to be nice... it's going to be very close.",
+ "verification": "STRONGLY SUPPORTED",
+ "verification_class": "ok",
+ "sources": "Donald Trump, Salina (Kansas) midterm rally, via Al Jazeera liveblog",
+ "fault_line": "Deal now vs 'close them down': is the Salina line a final pre-midterm warning or campaign rhetoric that collapses after the vote?",
+ "significance": 2,
+ "demand": 4,
+ "date_led": "2026-11-02",
+ "sections": {
+  "what_happened": "Trump told his 30th and final midterm rally in Salina, Kansas that Washington has 'dominated' Iran and 'we can close them down anytime we want'; 'We're trying to be nice... it's going to be very close. We're just going to close them down. That's going to be the end of it.' Distinct rally/quote from the Iowa 'hammer' quote already recorded in 0600-03 (same threat line, new venue and wording).",
+  "what_verified": "AJ liveblog relay of the Salina rally speech.",
+  "what_disputed": "Same speech also says the US is 'trying to be nice' and has not decided on strikes (Rubio, recorded 0600-01); Doha two-day Hormuz plan still awaits a US response (0800-01). Threat rhetoric is not a strike decision.",
+  "why_matters": "Trump's LAST rally before the midterms: 'we can close them down anytime' — the threat line, sharpened, 1-2 days from the reported decision window.",
+  "context": "Background: IN-WINDOW (AJ liveblog 04:30 GMT = 08:30 ) -- Trump at final midterm rally in Salina, Kansas: US can 'close down' Iran 'anytime we want'"
+ },
+ "totw_analysis": "Our read: Trump's LAST rally before the midterms: 'we can close them down anytime' — the threat line, sharpened, 1-2 days from the reported decision window. The fault line our audience is arguing over: Deal now vs 'close them down': is the Salina line a final pre-midterm warning or campaign rhetoric that collapses after the vote?",
+ "related_short_title": null,
+ "related_short_url": null,
+ "narration_chars": 1645,
+ "audio_chunks": [
+  "/assets/audio/totw-20261102-0900-01/full-00.mp3.b64",
+  "/assets/audio/totw-20261102-0900-01/full-01.mp3.b64",
+  "/assets/audio/totw-20261102-0900-01/full-02.mp3.b64",
+  "/assets/audio/totw-20261102-0900-01/full-03.mp3.b64",
+  "/assets/audio/totw-20261102-0900-01/full-04.mp3.b64",
+  "/assets/audio/totw-20261102-0900-01/full-05.mp3.b64",
+  "/assets/audio/totw-20261102-0900-01/full-06.mp3.b64",
+  "/assets/audio/totw-20261102-0900-01/full-07.mp3.b64",
+  "/assets/audio/totw-20261102-0900-01/full-08.mp3.b64",
+  "/assets/audio/totw-20261102-0900-01/full-09.mp3.b64",
+  "/assets/audio/totw-20261102-0900-01/full-10.mp3.b64"
+ ],
+ "audio_duration_secs": 103,
+ "audio_minutes": 1.7
+}

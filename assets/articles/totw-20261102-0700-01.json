@@ -1,0 +1,41 @@
+{
+ "item_id": "totw-20261102-0700-01",
+ "headline": "NEW SHIPPING INCIDENT",
+ "dek": "Two unknown projectiles struck the port side of a tanker travelling through the Gulf about 72 nautical miles (133km) east of Khafji, Saudi Arabia, at 23:47 GMT Sunday. All crew accounted for, no environmental impact reported at time of warning.",
+ "verification": "STRONGLY SUPPORTED",
+ "verification_class": "ok",
+ "sources": "UKMTO Warning 192-26, relayed by Al Jazeera liveblog Nov 2",
+ "fault_line": "Cleared lanes vs burning tankers: if the primary routes are clear, why is a tanker taking two projectiles off Saudi Arabia's Gulf coast?",
+ "significance": 3,
+ "demand": 4,
+ "date_led": "2026-11-02",
+ "sections": {
+  "what_happened": "Two unknown projectiles struck the port side of a tanker travelling through the Gulf about 72 nautical miles (133km) east of Khafji, Saudi Arabia, at 23:47 GMT Sunday. All crew accounted for, no environmental impact reported at time of warning. Attacker, vessel name/flag and cargo not stated in the relay. This is a NEW incident distinct from the Nov 1 Hormuz mine claims and the Oct 30 Khasab limpet-mine attack: different location (Gulf waters off Saudi Arabia, not the Strait itself) and different weapon description (projectiles, not mines).",
+  "what_verified": "UKMTO primary warning; Al Jazeera liveblog relay of the warning text.",
+  "what_disputed": "No claimant has taken responsibility in-window; do not attribute to Iran or any actor. IRGC Nov 1 mine claims concern different incidents (Hormuz, mines) and are not corroboration for this projectile strike. US CENTCOM's Oct 30 'cleared primary routes' claim does not cover this Gulf location or projectile attacks.",
+  "why_matters": "A NEW tanker hit — not Hormuz mines this time, two projectiles off Saudi Arabia's Khafji coast, crew safe, attacker unknown. The shipping war is spreading beyond the Strait while Washington says the lanes are clear.",
+  "context": "Background: NEW SHIPPING INCIDENT (UKMTO Warning 192-26, reported 05:55 ; missed by 0600 scan) -- tanker struck by two unknown projectiles off Khafji, Saudi Arabia"
+ },
+ "totw_analysis": "Our read: A NEW tanker hit — not Hormuz mines this time, two projectiles off Saudi Arabia's Khafji coast, crew safe, attacker unknown. The shipping war is spreading beyond the Strait while Washington says the lanes are clear. The fault line our audience is arguing over: Cleared lanes vs burning tankers: if the primary routes are clear, why is a tanker taking two projectiles off Saudi Arabia's Gulf coast?",
+ "related_short_title": "Why a Single Tanker Attack Pushed Oil Past $105",
+ "related_short_url": "https://youtube.com/shorts/YcI5CyZJ2fQ",
+ "narration_chars": 2100,
+ "audio_chunks": [
+  "/assets/audio/totw-20261102-0700-01/full-00.mp3.b64",
+  "/assets/audio/totw-20261102-0700-01/full-01.mp3.b64",
+  "/assets/audio/totw-20261102-0700-01/full-02.mp3.b64",
+  "/assets/audio/totw-20261102-0700-01/full-03.mp3.b64",
+  "/assets/audio/totw-20261102-0700-01/full-04.mp3.b64",
+  "/assets/audio/totw-20261102-0700-01/full-05.mp3.b64",
+  "/assets/audio/totw-20261102-0700-01/full-06.mp3.b64",
+  "/assets/audio/totw-20261102-0700-01/full-07.mp3.b64",
+  "/assets/audio/totw-20261102-0700-01/full-08.mp3.b64",
+  "/assets/audio/totw-20261102-0700-01/full-09.mp3.b64",
+  "/assets/audio/totw-20261102-0700-01/full-10.mp3.b64",
+  "/assets/audio/totw-20261102-0700-01/full-11.mp3.b64",
+  "/assets/audio/totw-20261102-0700-01/full-12.mp3.b64",
+  "/assets/audio/totw-20261102-0700-01/full-13.mp3.b64"
+ ],
+ "audio_duration_secs": 134,
+ "audio_minutes": 2.2
+}

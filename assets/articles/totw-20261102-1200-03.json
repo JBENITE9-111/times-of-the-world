@@ -1,0 +1,42 @@
+{
+ "item_id": "totw-20261102-1200-03",
+ "headline": "Saudi Civil Defence emergency alerts + all-clear in 4 southern/western areas",
+ "dek": "Saudi Civil Defence issued emergency warnings Monday in Khamis Mushait, Taif, Abha and Najran, then announced the danger had passed in all areas, advising residents to avoid gatherings and filming. The Saudi-led coalition said air defences intercepted and destroyed a Ansar Allah ballistic missile…",
+ "verification": "STRONGLY SUPPORTED",
+ "verification_class": "ok",
+ "sources": "Saudi Civil Defence (National Early Warning Platform) + Saudi-led coalition spokesman Maj-Gen Turki al-Maliki, via Reuters/Dawn and Siasat",
+ "fault_line": "Interceptions vs escalation: does each intercepted missile prove the shield works, or prove the Yemen-Saudi war is now a daily threat to Saudi cities?",
+ "significance": 2,
+ "demand": 3,
+ "date_led": "2026-11-02",
+ "sections": {
+  "what_happened": "Saudi Civil Defence issued emergency warnings Monday in Khamis Mushait, Taif, Abha and Najran, then announced the danger had passed in all areas, advising residents to avoid gatherings and filming. The Saudi-led coalition said air defences intercepted and destroyed a Ansar Allah ballistic missile launched toward the Kingdom's southern region. TIMING CAVEAT: the interception announcement itself dates to Sunday (IANS/Gulf Insider Sunday reports of a drone + ballistic missile intercepted) -- Monday's NEW fact is the civil-defence alerts and all-clear, not a newly announced interception. No casualties or target details given for the missile.",
+  "what_verified": "Saudi Civil Defence alert feed + coalition statement + Reuters via Dawn. Both Saudi feeds are state sources; Reuters is the independent wire carrier.",
+  "what_disputed": "No Ansar Allah confirmation of this specific launch in reports seen; no independent verification of the interception (no debris/wreckage reporting). The Ansar Allah side's parallel claims (75 strikes/24h, Ras Isa berth hit) are unverified single-source claims, recorded in the triage bundle, not as counterevidence for the alerts themselves.",
+  "why_matters": "Alert-map beat: four Saudi cities warned in one morning -- the Yemen war is now arriving as phone alerts in Taif and Abha, not just front-line news.",
+  "context": "Background: IN-WINDOW (Dawn 12:19+05 = 11:19 ; Siasat 12:55+05 = 11:55 ) -- Saudi Civil Defence emergency alerts + all-clear in 4 southern/western areas; coalition interception claim relayed"
+ },
+ "totw_analysis": "Our read: Alert-map beat: four Saudi cities warned in one morning -- the Yemen war is now arriving as phone alerts in Taif and Abha, not just front-line news. The fault line our audience is arguing over: Interceptions vs escalation: does each intercepted missile prove the shield works, or prove the Yemen-Saudi war is now a daily threat to Saudi cities?",
+ "related_short_title": null,
+ "related_short_url": null,
+ "narration_chars": 2321,
+ "audio_chunks": [
+  "/assets/audio/totw-20261102-1200-03/full-00.mp3.b64",
+  "/assets/audio/totw-20261102-1200-03/full-01.mp3.b64",
+  "/assets/audio/totw-20261102-1200-03/full-02.mp3.b64",
+  "/assets/audio/totw-20261102-1200-03/full-03.mp3.b64",
+  "/assets/audio/totw-20261102-1200-03/full-04.mp3.b64",
+  "/assets/audio/totw-20261102-1200-03/full-05.mp3.b64",
+  "/assets/audio/totw-20261102-1200-03/full-06.mp3.b64",
+  "/assets/audio/totw-20261102-1200-03/full-07.mp3.b64",
+  "/assets/audio/totw-20261102-1200-03/full-08.mp3.b64",
+  "/assets/audio/totw-20261102-1200-03/full-09.mp3.b64",
+  "/assets/audio/totw-20261102-1200-03/full-10.mp3.b64",
+  "/assets/audio/totw-20261102-1200-03/full-11.mp3.b64",
+  "/assets/audio/totw-20261102-1200-03/full-12.mp3.b64",
+  "/assets/audio/totw-20261102-1200-03/full-13.mp3.b64",
+  "/assets/audio/totw-20261102-1200-03/full-14.mp3.b64"
+ ],
+ "audio_duration_secs": 138,
+ "audio_minutes": 2.3
+}
