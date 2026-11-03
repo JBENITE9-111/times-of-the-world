@@ -1,0 +1,41 @@
+{
+ "item_id": "totw-20261103-1100-01",
+ "headline": "Al Jazeera correspondent Montaser Nassar RELEASED after hours in detention",
+ "dek": "Israeli forces have released Al Jazeera correspondent Montaser Nassar after detaining him for several hours in Dura, south of Hebron. VERIFIED FACT: the release (AJ's own confirmation).",
+ "verification": "STRONGLY SUPPORTED",
+ "verification_class": "ok",
+ "sources": "Al Jazeera Iran-war liveblog 2026-11-03T06:23Z ('Al Jazeera correspondent released in West Bank after hours in detention'), citing AJ's own confirmation; raid details via Wafa (21 detained from Dura)",
+ "fault_line": "Press freedom vs security raid: is detaining a working correspondent -- blindfolded on camera -- a lawful security operation, or a crackdown on reporting from the West Bank?",
+ "significance": 2,
+ "demand": 2,
+ "date_led": "2026-11-03",
+ "sections": {
+  "what_happened": "Israeli forces have released Al Jazeera correspondent Montaser Nassar after detaining him for several hours in Dura, south of Hebron. VERIFIED FACT: the release (AJ's own confirmation). STILL UNRESOLVED: no Israeli military statement, charge, or reason for detention has been published in the sources checked. COUNT DISCREPANCY CARRIED FORWARD, NOT SMOOTHED: AJ's own article says 'more than 13' detained in Dura; Wafa via the liveblog says 21. On-screen copy must use AJ's 'more than 13' or attribute Wafa's 21 explicitly, never state 21 as settled.",
+  "what_verified": "AJ's own release confirmation + Wafa raid relay; no IDF statement located",
+  "what_disputed": "Strongest counterpoint available: no Israeli military account of the raid or the release has been published in the sources checked -- whether Nassar was targeted individually or swept up in a mass detention round remains unconfirmed.",
+  "why_matters": "UPDATE to the on-camera arrest: Nassar is free after hours in detention -- but Israel has still said nothing about why he was taken. The blindfold clip stays the visual; the unanswered charge is the sting.",
+  "context": "Background: IN-WINDOW (AJ liveblog 06:23 GMT = 10:23 ) -- Al Jazeera correspondent Montaser Nassar RELEASED after hours in detention; resolves the unknown release status in 1000-01"
+ },
+ "totw_analysis": "Our read: UPDATE to the on-camera arrest: Nassar is free after hours in detention -- but Israel has still said nothing about why he was taken. The blindfold clip stays the visual; the unanswered charge is the sting. The fault line our audience is arguing over: Press freedom vs security raid: is detaining a working correspondent -- blindfolded on camera -- a lawful security operation, or a crackdown on reporting from the West Bank?",
+ "related_short_title": null,
+ "related_short_url": null,
+ "narration_chars": 2054,
+ "audio_chunks": [
+  "/assets/audio/totw-20261103-1100-01/full-00.mp3.b64",
+  "/assets/audio/totw-20261103-1100-01/full-01.mp3.b64",
+  "/assets/audio/totw-20261103-1100-01/full-02.mp3.b64",
+  "/assets/audio/totw-20261103-1100-01/full-03.mp3.b64",
+  "/assets/audio/totw-20261103-1100-01/full-04.mp3.b64",
+  "/assets/audio/totw-20261103-1100-01/full-05.mp3.b64",
+  "/assets/audio/totw-20261103-1100-01/full-06.mp3.b64",
+  "/assets/audio/totw-20261103-1100-01/full-07.mp3.b64",
+  "/assets/audio/totw-20261103-1100-01/full-08.mp3.b64",
+  "/assets/audio/totw-20261103-1100-01/full-09.mp3.b64",
+  "/assets/audio/totw-20261103-1100-01/full-10.mp3.b64",
+  "/assets/audio/totw-20261103-1100-01/full-11.mp3.b64",
+  "/assets/audio/totw-20261103-1100-01/full-12.mp3.b64",
+  "/assets/audio/totw-20261103-1100-01/full-13.mp3.b64"
+ ],
+ "audio_duration_secs": 129,
+ "audio_minutes": 2.1
+}
