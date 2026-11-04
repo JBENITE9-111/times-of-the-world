@@ -1,0 +1,40 @@
+{
+ "item_id": "totw-20261104-0500-01",
+ "headline": "IN-WINDOW UPDATE TO 0400-01",
+ "dek": "Saudi Civil Defence has lifted the early-warning alert for Riyadh that it activated at 03:54 (0400-01). The liveblog entry gives no cause, threat type, intercept, damage or casualty detail for the Riyadh alert itself; the all-clear closes the alert, it does not explain it.",
+ "verification": "VERIFIED",
+ "verification_class": "ok",
+ "sources": "Saudi General Directorate of Civil Defence announcement, relayed by Al Jazeera Nov 4 liveblog",
+ "fault_line": "All-clear without explanation: routine precaution or a threat Riyadh is not naming?",
+ "significance": 2,
+ "demand": 4,
+ "date_led": "2026-11-04",
+ "sections": {
+  "what_happened": "Saudi Civil Defence has lifted the early-warning alert for Riyadh that it activated at 03:54 (0400-01). The liveblog entry gives no cause, threat type, intercept, damage or casualty detail for the Riyadh alert itself; the all-clear closes the alert, it does not explain it.",
+  "what_verified": "Official announcement relayed by AJ liveblog; no second outlet relay found in-window. The 0400-01 activation is corroborated by the @saudinews50 graphic (03:49 ) and the AJ 23:54 GMT entry.",
+  "what_disputed": "None: no source disputes the lift. The gap is the missing cause — no coalition statement in-window attributes the Riyadh alert to a specific launch, and no intercept over Riyadh was claimed for this alert (contrast the Nov 2 Riyadh two-drone intercept, a separate event).",
+  "why_matters": "Riyadh alert ends as quietly as it began — the capital's warning system, not a strike, is the story; do not inflate into an attack claim.",
+  "context": "Background: IN-WINDOW UPDATE TO 0400-01: Saudi Civil Defence lifts the Riyadh early-warning alert (AJ liveblog 00:06 GMT = 04:06 )"
+ },
+ "totw_analysis": "Our read: Riyadh alert ends as quietly as it began — the capital's warning system, not a strike, is the story; do not inflate into an attack claim. The fault line our audience is arguing over: All-clear without explanation: routine precaution or a threat Riyadh is not naming?",
+ "related_short_title": null,
+ "related_short_url": null,
+ "narration_chars": 1696,
+ "audio_chunks": [
+  "/assets/audio/totw-20261104-0500-01/full-00.mp3.b64",
+  "/assets/audio/totw-20261104-0500-01/full-01.mp3.b64",
+  "/assets/audio/totw-20261104-0500-01/full-02.mp3.b64",
+  "/assets/audio/totw-20261104-0500-01/full-03.mp3.b64",
+  "/assets/audio/totw-20261104-0500-01/full-04.mp3.b64",
+  "/assets/audio/totw-20261104-0500-01/full-05.mp3.b64",
+  "/assets/audio/totw-20261104-0500-01/full-06.mp3.b64",
+  "/assets/audio/totw-20261104-0500-01/full-07.mp3.b64",
+  "/assets/audio/totw-20261104-0500-01/full-08.mp3.b64",
+  "/assets/audio/totw-20261104-0500-01/full-09.mp3.b64",
+  "/assets/audio/totw-20261104-0500-01/full-10.mp3.b64",
+  "/assets/audio/totw-20261104-0500-01/full-11.mp3.b64",
+  "/assets/audio/totw-20261104-0500-01/full-12.mp3.b64"
+ ],
+ "audio_duration_secs": 117,
+ "audio_minutes": 1.9
+}

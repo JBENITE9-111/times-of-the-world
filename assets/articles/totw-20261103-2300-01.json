@@ -1,0 +1,43 @@
+{
+ "item_id": "totw-20261103-2300-01",
+ "headline": "Gulf oil exports dipped in October to 17.1 mbpd from September's 18.9 mbpd, still ~three-quarters of pre-war levels'",
+ "dek": "Flows of crude, condensate and refined products from the Gulf, excluding LPG, averaged 17.1 million barrels per day in October, down from 18.9 mbpd in September (the highest since the Iran war started) but still roughly three-quarters of pre-war levels. Vortexa: 'October data shows Middle East…",
+ "verification": "STRONGLY SUPPORTED",
+ "verification_class": "ok",
+ "sources": "Reuters, citing ship-tracking data from Vortexa (analyst George Morris), relayed by Dawn liveblog",
+ "fault_line": "Is the strait really open, or are export volumes quietly shrinking while officials claim free navigation? (CENTCOM Hormuz reel: 69K likes / 8.3K comments, comments split between troop support and 'why are gas prices stil",
+ "significance": 2,
+ "demand": 4,
+ "date_led": "2026-11-03",
+ "sections": {
+  "what_happened": "Flows of crude, condensate and refined products from the Gulf, excluding LPG, averaged 17.1 million barrels per day in October, down from 18.9 mbpd in September (the highest since the Iran war started) but still roughly three-quarters of pre-war levels. Vortexa: 'October data shows Middle East seaborne oil exports have pulled back slightly from recent post-war highs on heightened risks in the Strait of Hormuz.'",
+  "what_verified": "Reuters (T1) reporting Vortexa data; Vortexa has no declared tier in the registry and does not itself count as a corroborating family. Single wire family carrying attributed data.",
+  "what_disputed": "None in-window. Context: Brent slid ~2% Tuesday to $103.14 (Reuters via Dawn 20:32 ) on talks optimism, so the October dip coexists with a softening spot price; the dip is a monthly flow figure, not a claim that the strait is closed.",
+  "why_matters": "The number behind the claim: Gulf exports fell 1.8 mbpd in a month while the strait is called 'open' -- counted barrels vs claimed freedom",
+  "context": "Background: IN-WINDOW (Dawn live 11:31pm PKT = 22:31 , Reuters citing Vortexa ship-tracking data) -- Gulf oil exports dipped in October to 17.1 mbpd from September's 18.9 mbpd, still ~three-quarters of pre-war levels"
+ },
+ "totw_analysis": "Our read: The number behind the claim: Gulf exports fell 1.8 mbpd in a month while the strait is called 'open' -- counted barrels vs claimed freedom The fault line our audience is arguing over: Is the strait really open, or are export volumes quietly shrinking while officials claim free navigation? (CENTCOM Hormuz reel: 69K likes / 8.3K comments, comments split between troop support and 'why are gas prices still high if passage is free?')",
+ "related_short_title": "'This Is a Serious Warning' — Iran Threatens US Bases Across the Middle East",
+ "related_short_url": "https://www.youtube.com/shorts/EH_E746FaJQ",
+ "narration_chars": 2153,
+ "audio_chunks": [
+  "/assets/audio/totw-20261103-2300-01/full-00.mp3.b64",
+  "/assets/audio/totw-20261103-2300-01/full-01.mp3.b64",
+  "/assets/audio/totw-20261103-2300-01/full-02.mp3.b64",
+  "/assets/audio/totw-20261103-2300-01/full-03.mp3.b64",
+  "/assets/audio/totw-20261103-2300-01/full-04.mp3.b64",
+  "/assets/audio/totw-20261103-2300-01/full-05.mp3.b64",
+  "/assets/audio/totw-20261103-2300-01/full-06.mp3.b64",
+  "/assets/audio/totw-20261103-2300-01/full-07.mp3.b64",
+  "/assets/audio/totw-20261103-2300-01/full-08.mp3.b64",
+  "/assets/audio/totw-20261103-2300-01/full-09.mp3.b64",
+  "/assets/audio/totw-20261103-2300-01/full-10.mp3.b64",
+  "/assets/audio/totw-20261103-2300-01/full-11.mp3.b64",
+  "/assets/audio/totw-20261103-2300-01/full-12.mp3.b64",
+  "/assets/audio/totw-20261103-2300-01/full-13.mp3.b64",
+  "/assets/audio/totw-20261103-2300-01/full-14.mp3.b64",
+  "/assets/audio/totw-20261103-2300-01/full-15.mp3.b64"
+ ],
+ "audio_duration_secs": 147,
+ "audio_minutes": 2.5
+}

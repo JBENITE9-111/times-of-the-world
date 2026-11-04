@@ -1,0 +1,43 @@
+{
+ "item_id": "totw-20261104-0600-03",
+ "headline": "Komyshuvakha aid-site toll revised 31 -> 33 killed",
+ "dek": "Zelenskyy said at least 33 people were killed on Monday Nov 2 when Russia twice bombed the school being used for aid distribution in Komyshuvakha, Zaporizhzhia region — revising the toll recorded at 0500-03 (31 killed, 45+ missing, via regional authorities/ET/NIE). Discrepancy noted, not smoothed:…",
+ "verification": "STRONGLY SUPPORTED",
+ "verification_class": "ok",
+ "sources": "President Volodymyr Zelenskyy statement, via Reuters; Japan Times relay",
+ "fault_line": "Aid site or military target? Moscow frames Komyshuvakha as a troop concentration; Kyiv and the toll count frame it as a double-tap on civilians queuing for aid.",
+ "significance": 2,
+ "demand": 2,
+ "date_led": "2026-11-04",
+ "sections": {
+  "what_happened": "Zelenskyy said at least 33 people were killed on Monday Nov 2 when Russia twice bombed the school being used for aid distribution in Komyshuvakha, Zaporizhzhia region — revising the toll recorded at 0500-03 (31 killed, 45+ missing, via regional authorities/ET/NIE). Discrepancy noted, not smoothed: 29 (Nov 3 regional) -> 31 (Nov 3 regional/ET/NIE) -> 33 (Zelenskyy via Reuters). Same barrage context already recorded: 289 drones + 17 ballistic + 59 cruise missiles overnight Nov 2-3; DTEK says three of its five thermal power plants knocked offline in the wider Nov 3 energy barrage.",
+  "what_verified": "Reuters wire + Japan Times relay",
+  "what_disputed": "Russia's Defence Ministry said its Nov 3 strikes targeted Ukrainian military units around Komyshuvakha and two other Zaporizhzhia settlements, claiming up to 25 Ukrainian servicemen killed — a different casualty frame (military vs civilian aid-site toll) that does not reconcile with the 33 civilian toll.",
+  "why_matters": "Toll correction only — not a new strike video. Carries forward the recorded discrepancy (31 regional vs 33 presidential) for any future Komyshuvakha reference.",
+  "context": "Background: MISSED CATCH-UP (Zelenskyy statement Nov 3, via Reuters Nov 3; Japan Times Nov 4): Komyshuvakha aid-site toll revised 31 -> 33 killed"
+ },
+ "totw_analysis": "Our read: Toll correction only — not a new strike video. Carries forward the recorded discrepancy (31 regional vs 33 presidential) for any future Komyshuvakha reference. The fault line our audience is arguing over: Aid site or military target? Moscow frames Komyshuvakha as a troop concentration; Kyiv and the toll count frame it as a double-tap on civilians queuing for aid.",
+ "related_short_title": null,
+ "related_short_url": null,
+ "narration_chars": 2069,
+ "audio_chunks": [
+  "/assets/audio/totw-20261104-0600-03/full-00.mp3.b64",
+  "/assets/audio/totw-20261104-0600-03/full-01.mp3.b64",
+  "/assets/audio/totw-20261104-0600-03/full-02.mp3.b64",
+  "/assets/audio/totw-20261104-0600-03/full-03.mp3.b64",
+  "/assets/audio/totw-20261104-0600-03/full-04.mp3.b64",
+  "/assets/audio/totw-20261104-0600-03/full-05.mp3.b64",
+  "/assets/audio/totw-20261104-0600-03/full-06.mp3.b64",
+  "/assets/audio/totw-20261104-0600-03/full-07.mp3.b64",
+  "/assets/audio/totw-20261104-0600-03/full-08.mp3.b64",
+  "/assets/audio/totw-20261104-0600-03/full-09.mp3.b64",
+  "/assets/audio/totw-20261104-0600-03/full-10.mp3.b64",
+  "/assets/audio/totw-20261104-0600-03/full-11.mp3.b64",
+  "/assets/audio/totw-20261104-0600-03/full-12.mp3.b64",
+  "/assets/audio/totw-20261104-0600-03/full-13.mp3.b64",
+  "/assets/audio/totw-20261104-0600-03/full-14.mp3.b64",
+  "/assets/audio/totw-20261104-0600-03/full-15.mp3.b64"
+ ],
+ "audio_duration_secs": 147,
+ "audio_minutes": 2.5
+}
