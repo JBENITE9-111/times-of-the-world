@@ -1,0 +1,43 @@
+{
+ "item_id": "1600-01",
+ "headline": "US hostility unchanged by midterms",
+ "dek": "Khamenei warned that if US aggressions are repeated, Iran's response 'will take on much broader dimensions', praising Hormuz control and strikes on US bases as retaliation; he said anyone hoping US hostility changes through party/faction shifts or concessions is 'gravely mistaken', and that the US…",
+ "verification": "STRONGLY SUPPORTED",
+ "verification_class": "ok",
+ "sources": "Supreme Leader Mojtaba Khamenei's Nov 4 written message, via Al Jazeera liveblog; carried by Reuters, NDTV, Shafaq, News18, Times Now",
+ "fault_line": "Deterrence or bluff? Tehran reads the midterms as a leash on Trump; critics read the 'broader dimensions' warning as rhetoric while the US blockade and Qeshm strikes continue.",
+ "significance": 3,
+ "demand": 4,
+ "date_led": "2026-11-04",
+ "sections": {
+  "what_happened": "Khamenei warned that if US aggressions are repeated, Iran's response 'will take on much broader dimensions', praising Hormuz control and strikes on US bases as retaliation; he said anyone hoping US hostility changes through party/faction shifts or concessions is 'gravely mistaken', and that the US seeks Iran's unconditional surrender. He called 'an ever-stronger Iran' the path to 'absolute deterrence'.",
+  "what_verified": "AJ liveblog (11:05 + 11:10 GMT entries) + Reuters wire item + NDTV/T3 carry; Shafaq/News18/Times Now carries have NO declared tier in the registry and do not count",
+  "what_disputed": "No US, Israeli or Gulf-state reaction to this specific message was reported in the material checked; the message announces no new strike, target or date — it is a deterrence warning, not evidence of an imminent Iranian attack. US officials previously described the Qeshm strikes as limited with 'no immediate plans to escalate' (NYT via Rudaw, Nov 3-4).",
+  "why_matters": "LEAD Short: 'Khamenei's Nov 4 warning — after losing Congress, Trump faces a wider war if he strikes again.' Open on the quote, then the constraint: a Democratic Congress now holds the war purse (see hidden constraint). Proven set: Iran/Gulf confrontation + Trump-Iran endgame.",
+  "context": "Background: IN-WINDOW (AJ liveblog 11:05 + 11:10 GMT = 15:05 + 15:10 ; Reuters wire Nov 4): Khamenei Nov 4 message — broader retaliation if US attacks again; US hostility unchanged by midterms"
+ },
+ "totw_analysis": "Our read: LEAD Short: 'Khamenei's Nov 4 warning — after losing Congress, Trump faces a wider war if he strikes again.' Open on the quote, then the constraint: a Democratic Congress now holds the war purse (see hidden constraint). Proven set: Iran/Gulf confrontation + Trump-Iran endgame. The fault line our audience is arguing over: Deterrence or bluff? Tehran reads the midterms as a leash on Trump; critics read the 'broader dimensions' warning as rhetoric while the US blockade and Qeshm strikes continue.",
+ "related_short_title": null,
+ "related_short_url": null,
+ "narration_chars": 2351,
+ "audio_chunks": [
+  "/assets/audio/1600-01/full-00.mp3.b64",
+  "/assets/audio/1600-01/full-01.mp3.b64",
+  "/assets/audio/1600-01/full-02.mp3.b64",
+  "/assets/audio/1600-01/full-03.mp3.b64",
+  "/assets/audio/1600-01/full-04.mp3.b64",
+  "/assets/audio/1600-01/full-05.mp3.b64",
+  "/assets/audio/1600-01/full-06.mp3.b64",
+  "/assets/audio/1600-01/full-07.mp3.b64",
+  "/assets/audio/1600-01/full-08.mp3.b64",
+  "/assets/audio/1600-01/full-09.mp3.b64",
+  "/assets/audio/1600-01/full-10.mp3.b64",
+  "/assets/audio/1600-01/full-11.mp3.b64",
+  "/assets/audio/1600-01/full-12.mp3.b64",
+  "/assets/audio/1600-01/full-13.mp3.b64",
+  "/assets/audio/1600-01/full-14.mp3.b64",
+  "/assets/audio/1600-01/full-15.mp3.b64"
+ ],
+ "audio_duration_secs": 152,
+ "audio_minutes": 2.5
+}
