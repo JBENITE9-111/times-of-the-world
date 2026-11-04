@@ -1,0 +1,40 @@
+{
+ "item_id": "totw-20261104-1200-01",
+ "headline": "Four airstrikes hit Ansar Allah weapons depots and military vehicles at the Central Security Camp in al-Bayda, central Yemen",
+ "dek": "Four airstrikes targeted weapons depots and military vehicles belonging to Yemen's Ansar Allah group at the Central Security Camp in al-Bayda province; the broadcaster did not identify who carried out the strikes and there was no immediate information on casualties or damage. Al-Bayda borders eight…",
+ "verification": "VERIFIED",
+ "verification_class": "ok",
+ "sources": "Al-Jumhuriya TV (field sources) via Arab Times Online; Ansar Allah-affiliated media via Al Jazeera Nov 4 liveblog (03:42 GMT entry)",
+ "fault_line": "Who is bombing al-Bayda -- and does the unidentified-strike pattern mean the coalition is striking without claiming it?",
+ "significance": 2,
+ "demand": 3,
+ "date_led": "2026-11-04",
+ "sections": {
+  "what_happened": "Four airstrikes targeted weapons depots and military vehicles belonging to Yemen's Ansar Allah group at the Central Security Camp in al-Bayda province; the broadcaster did not identify who carried out the strikes and there was no immediate information on casualties or damage. Al-Bayda borders eight other provinces and is mostly Ansar Allah-controlled; the strikes come amid the Yemeni government forces' 'Dawn of Yemen' operation (since Oct 5) to retake state institutions and Sanaa. Ansar Allah-affiliated media separately reported coalition air strikes in al-Bayda city (four strikes) plus coalition shelling in Ghamr district, Saada.",
+  "what_verified": "1 declared family: Al Jazeera (T2, STATE QA) liveblog relay of Ansar Allah-affiliated media. Arab Times / Al-Jumhuriya TV have NO declared tier in the registry -- reported with attribution only, never counted.",
+  "what_disputed": "Actor unidentified by both relays -- no coalition claim, no government claim, no Ansar Allah casualty claim. Same-count/same-place agreement may be one event double-reported, not two waves; do not present as eight strikes.",
+  "why_matters": "",
+  "context": "Background: IN-WINDOW (Arab Times Nov 4 10:03 +03 = 11:03 ): four airstrikes hit Ansar Allah weapons depots and military vehicles at the Central Security Camp in al-Bayda, central Yemen; actor unidentified, no casualties reported"
+ },
+ "totw_analysis": "Our read: The fault line our audience is arguing over: Who is bombing al-Bayda -- and does the unidentified-strike pattern mean the coalition is striking without claiming it?",
+ "related_short_title": null,
+ "related_short_url": null,
+ "narration_chars": 2016,
+ "audio_chunks": [
+  "/assets/audio/totw-20261104-1200-01/full-00.mp3.b64",
+  "/assets/audio/totw-20261104-1200-01/full-01.mp3.b64",
+  "/assets/audio/totw-20261104-1200-01/full-02.mp3.b64",
+  "/assets/audio/totw-20261104-1200-01/full-03.mp3.b64",
+  "/assets/audio/totw-20261104-1200-01/full-04.mp3.b64",
+  "/assets/audio/totw-20261104-1200-01/full-05.mp3.b64",
+  "/assets/audio/totw-20261104-1200-01/full-06.mp3.b64",
+  "/assets/audio/totw-20261104-1200-01/full-07.mp3.b64",
+  "/assets/audio/totw-20261104-1200-01/full-08.mp3.b64",
+  "/assets/audio/totw-20261104-1200-01/full-09.mp3.b64",
+  "/assets/audio/totw-20261104-1200-01/full-10.mp3.b64",
+  "/assets/audio/totw-20261104-1200-01/full-11.mp3.b64",
+  "/assets/audio/totw-20261104-1200-01/full-12.mp3.b64"
+ ],
+ "audio_duration_secs": 124,
+ "audio_minutes": 2.1
+}

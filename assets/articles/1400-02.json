@@ -1,0 +1,40 @@
+{
+ "item_id": "1400-02",
+ "headline": "Saudi Civil Defence all-clear in Jazan after brief danger alert",
+ "dek": "Saudi Civil Defence issued a brief danger warning for Jazan province (alert active about three minutes per Roya News) and then announced the danger had passed; two separate Najran warnings were issued and lifted earlier Wednesday morning. No cause, casualties or damage disclosed.",
+ "verification": "VERIFIED",
+ "verification_class": "ok",
+ "sources": "Saudi General Directorate of Civil Defence post on X (via National Early Warning Platform)",
+ "fault_line": "Are the southern alert waves precautionary signalling, or evidence of strikes Riyadh will not confirm?",
+ "significance": 2,
+ "demand": 3,
+ "date_led": "2026-11-04",
+ "sections": {
+  "what_happened": "Saudi Civil Defence issued a brief danger warning for Jazan province (alert active about three minutes per Roya News) and then announced the danger had passed; two separate Najran warnings were issued and lifted earlier Wednesday morning. No cause, casualties or damage disclosed. Jazan hosts a Saudi Aramco refinery of 400,000 barrels/day capacity.",
+  "what_verified": "Primary-source Civil Defence X posts carried by Reuters, Al Jazeera, Gulf News and Roya News",
+  "what_disputed": "Civil Defence disclosed no threat type, no interception claim and no damage; the alert wave (Nov 2: six warnings in five regions; Nov 3: Riyadh; Nov 4: Najran twice + Jazan) is context, not proof of any specific attack on Jazan. Ansar Allah claims of Jazan strikes on Nov 2-3 remain unconfirmed by Saudi authorities.",
+  "why_matters": "Another southern alert, another all-clear with no explanation — the pattern itself is the story, but an all-clear alone cannot lead a Short.",
+  "context": "Background: IN-WINDOW (Gulf News liveblog 13:23 ; AJ liveblog 09:28 GMT = 13:28 ; Reuters via Devdiscourse): Saudi Civil Defence all-clear in Jazan after brief danger alert; Najran alerts earlier Wednesday"
+ },
+ "totw_analysis": "Our read: Another southern alert, another all-clear with no explanation — the pattern itself is the story, but an all-clear alone cannot lead a Short. The fault line our audience is arguing over: Are the southern alert waves precautionary signalling, or evidence of strikes Riyadh will not confirm?",
+ "related_short_title": "4 Cities Warned in One Morning — Saudi's Alerts, Then the All-Clear",
+ "related_short_url": "178.80s",
+ "narration_chars": 1863,
+ "audio_chunks": [
+  "/assets/audio/1400-02/full-00.mp3.b64",
+  "/assets/audio/1400-02/full-01.mp3.b64",
+  "/assets/audio/1400-02/full-02.mp3.b64",
+  "/assets/audio/1400-02/full-03.mp3.b64",
+  "/assets/audio/1400-02/full-04.mp3.b64",
+  "/assets/audio/1400-02/full-05.mp3.b64",
+  "/assets/audio/1400-02/full-06.mp3.b64",
+  "/assets/audio/1400-02/full-07.mp3.b64",
+  "/assets/audio/1400-02/full-08.mp3.b64",
+  "/assets/audio/1400-02/full-09.mp3.b64",
+  "/assets/audio/1400-02/full-10.mp3.b64",
+  "/assets/audio/1400-02/full-11.mp3.b64",
+  "/assets/audio/1400-02/full-12.mp3.b64"
+ ],
+ "audio_duration_secs": 115,
+ "audio_minutes": 1.9
+}

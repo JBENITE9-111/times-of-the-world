@@ -1,0 +1,37 @@
+{
+ "item_id": "totw-20261104-1200-04",
+ "headline": "Israeli forces detain at least 34 Palestinians in dawn raids across the occupied West Bank (Wafa)",
+ "dek": "Israeli forces detained at least 34 Palestinians during widespread raids: 18 in the Nablus governorate (including two women; four brothers arrested in al-Ma'ajin; detentions in Beita, Kafr Qallil, Yatma, Zeita Jamma'in, Zawata) and 16 in the Hebron governorate. Houses were raided and searched; a…",
+ "verification": "DEVELOPING",
+ "verification_class": "warn",
+ "sources": "Palestinian news agency Wafa, via Al Jazeera Nov 4 liveblog",
+ "fault_line": "Security sweep or collective pressure -- what distinguishes a 34-person dawn raid from routine West Bank operations?",
+ "significance": 2,
+ "demand": 1,
+ "date_led": "2026-11-04",
+ "sections": {
+  "what_happened": "Israeli forces detained at least 34 Palestinians during widespread raids: 18 in the Nablus governorate (including two women; four brothers arrested in al-Ma'ajin; detentions in Beita, Kafr Qallil, Yatma, Zeita Jamma'in, Zawata) and 16 in the Hebron governorate. Houses were raided and searched; a young woman was among those detained in Beita; nine arrested in Zeita Jamma'in.",
+  "what_verified": "1 declared family: WAFA (T3, STATE PS). AJ is the relay, not independent corroboration.",
+  "what_disputed": "No IDF statement or arrest rationale in the entry; detainee identities and charges unreported.",
+  "why_matters": "",
+  "context": "Background: IN-WINDOW (AJ liveblog 07:30 GMT = 11:30 ): Israeli forces detain at least 34 Palestinians in dawn raids across the occupied West Bank (Wafa)"
+ },
+ "totw_analysis": "Our read: The fault line our audience is arguing over: Security sweep or collective pressure -- what distinguishes a 34-person dawn raid from routine West Bank operations?",
+ "related_short_title": null,
+ "related_short_url": null,
+ "narration_chars": 1395,
+ "audio_chunks": [
+  "/assets/audio/totw-20261104-1200-04/full-00.mp3.b64",
+  "/assets/audio/totw-20261104-1200-04/full-01.mp3.b64",
+  "/assets/audio/totw-20261104-1200-04/full-02.mp3.b64",
+  "/assets/audio/totw-20261104-1200-04/full-03.mp3.b64",
+  "/assets/audio/totw-20261104-1200-04/full-04.mp3.b64",
+  "/assets/audio/totw-20261104-1200-04/full-05.mp3.b64",
+  "/assets/audio/totw-20261104-1200-04/full-06.mp3.b64",
+  "/assets/audio/totw-20261104-1200-04/full-07.mp3.b64",
+  "/assets/audio/totw-20261104-1200-04/full-08.mp3.b64",
+  "/assets/audio/totw-20261104-1200-04/full-09.mp3.b64"
+ ],
+ "audio_duration_secs": 90,
+ "audio_minutes": 1.5
+}
