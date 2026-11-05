@@ -1,0 +1,42 @@
+{
+ "item_id": "totw-20261105-0000-04",
+ "headline": "Death toll rises to 2 after Ansar Allah strike on King Fahd airport, Dammam, on Wednesday evening",
+ "dek": "Saudi Arabia's Authority of Civil Aviation said on Thursday (per the AJ Taiz article) that the death toll has risen to two following an Ansar Allah strike on King Fahd airport in Dammam on Wednesday evening. No further detail on the victims, damage, or the weapon used was carried in the checked…",
+ "verification": "DEVELOPING",
+ "verification_class": "warn",
+ "sources": "Saudi Authority of Civil Aviation statement via Al Jazeera",
+ "fault_line": "Two dead at a civilian airport — does the Dammam toll prove Ansar Allah can now hit the Gulf's east coast at will, or is this a single strike being read too far?",
+ "significance": 2,
+ "demand": 3,
+ "date_led": "2026-11-05",
+ "sections": {
+  "what_happened": "Saudi Arabia's Authority of Civil Aviation said on Thursday (per the AJ Taiz article) that the death toll has risen to two following an Ansar Allah strike on King Fahd airport in Dammam on Wednesday evening. No further detail on the victims, damage, or the weapon used was carried in the checked article; the strike itself was reported during Nov 4 daytime coverage, and this record captures only the updated toll.",
+  "what_verified": "Single declared family (Al Jazeera, T2, STATE QA) relaying the Saudi Authority of Civil Aviation's own statement; the authority is the primary source for its own toll, so primary_source_single_family is true in substance.",
+  "what_disputed": "No Ansar Allah statement on the Dammam toll was carried in the checked article; Ansar Allah's Wednesday claims covered Riyadh airport (per EIN newswire items 17:43/18:25 GMT) and Aden/al-Rayyan airports, so the Dammam attribution rests on the Saudi authority alone.",
+  "why_matters": "Monitor only: a casualty update, not a new strike — it strengthens the Saudi-airport pressure-campaign file but cannot carry a Short alone. It becomes a Short only if paired with verified damage evidence or a further strike in the same campaign.",
+  "context": "Background: IN-WINDOW DETAIL (same AJ Taiz article, 19:26Z = 23:26 ) — Death toll rises to 2 after Ansar Allah strike on King Fahd airport, Dammam, on Wednesday evening"
+ },
+ "totw_analysis": "Our read: Monitor only: a casualty update, not a new strike — it strengthens the Saudi-airport pressure-campaign file but cannot carry a Short alone. It becomes a Short only if paired with verified damage evidence or a further strike in the same campaign. The fault line our audience is arguing over: Two dead at a civilian airport — does the Dammam toll prove Ansar Allah can now hit the Gulf's east coast at will, or is this a single strike being read too far?",
+ "related_short_title": null,
+ "related_short_url": null,
+ "narration_chars": 2285,
+ "audio_chunks": [
+  "/assets/audio/totw-20261105-0000-04/full-00.mp3.b64",
+  "/assets/audio/totw-20261105-0000-04/full-01.mp3.b64",
+  "/assets/audio/totw-20261105-0000-04/full-02.mp3.b64",
+  "/assets/audio/totw-20261105-0000-04/full-03.mp3.b64",
+  "/assets/audio/totw-20261105-0000-04/full-04.mp3.b64",
+  "/assets/audio/totw-20261105-0000-04/full-05.mp3.b64",
+  "/assets/audio/totw-20261105-0000-04/full-06.mp3.b64",
+  "/assets/audio/totw-20261105-0000-04/full-07.mp3.b64",
+  "/assets/audio/totw-20261105-0000-04/full-08.mp3.b64",
+  "/assets/audio/totw-20261105-0000-04/full-09.mp3.b64",
+  "/assets/audio/totw-20261105-0000-04/full-10.mp3.b64",
+  "/assets/audio/totw-20261105-0000-04/full-11.mp3.b64",
+  "/assets/audio/totw-20261105-0000-04/full-12.mp3.b64",
+  "/assets/audio/totw-20261105-0000-04/full-13.mp3.b64",
+  "/assets/audio/totw-20261105-0000-04/full-14.mp3.b64"
+ ],
+ "audio_duration_secs": 139,
+ "audio_minutes": 2.3
+}
