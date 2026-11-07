@@ -1,0 +1,40 @@
+{
+ "item_id": "totw-20261107-0900-05",
+ "headline": "A Russia-Europe security deal without ending the war first would be 'dangerous' for the EU",
+ "dek": "[PRIMARY-SOURCE CLAIM, via wire] Zelenskyy warned that any attempt to discuss a new security framework in Europe without first addressing how to end the Russia-Ukraine war could be 'dangerous' for the EU. He said he was not aware of all the details of a potential new security framework proposed by…",
+ "verification": "STRONGLY SUPPORTED",
+ "verification_class": "ok",
+ "sources": "Volodymyr Zelenskyy, CNN interview Friday Nov 6",
+ "fault_line": "Security for Europe, or security for Ukraine first? Zelenskyy says a deal that skips the war is dangerous -- Europe's capitals say the war has to end before Russia's concerns get a hearing.",
+ "significance": 2,
+ "demand": 3,
+ "date_led": "2026-11-07",
+ "sections": {
+  "what_happened": "[PRIMARY-SOURCE CLAIM, via wire] Zelenskyy warned that any attempt to discuss a new security framework in Europe without first addressing how to end the Russia-Ukraine war could be 'dangerous' for the EU. He said he was not aware of all the details of a potential new security framework proposed by Trump but cautioned against discussions that could sideline efforts to end the war. [CONTEXT, already recorded] Ukraine, the US and Russia are preparing working-level trilateral talks within a week; Zelenskyy said Wednesday he had a detailed ~1.5-hour conversation with Witkoff and Kushner on preparations; Witkoff announced Abu Dhabi Nov 10-11; Putin confirmed the schedule Nov 6 (TASS).",
+  "what_verified": "1 distinct declared-tier publisher family: ANI (T1 wire), carried by Tribune India (T3) and Republic World (undeclared carrier, same ANI family). Item is sig 2, below the >=3 two-family gate.",
+  "what_disputed": "",
+  "why_matters": "Zelenskyy warns Europe: a security deal that skips the war is dangerous. Three days before the Abu Dhabi table -- and the missiles are still falling on Kyiv.",
+  "context": "Background: MISSED CATCH-UP -- Zelenskyy (CNN interview): a Russia-Europe security deal without ending the war first would be 'dangerous' for the EU; trilateral talks within a week"
+ },
+ "totw_analysis": "Our read: Zelenskyy warns Europe: a security deal that skips the war is dangerous. Three days before the Abu Dhabi table -- and the missiles are still falling on Kyiv. The fault line our audience is arguing over: Security for Europe, or security for Ukraine first? Zelenskyy says a deal that skips the war is dangerous -- Europe's capitals say the war has to end before Russia's concerns get a hearing.",
+ "related_short_title": null,
+ "related_short_url": null,
+ "narration_chars": 2126,
+ "audio_chunks": [
+  "/assets/audio/totw-20261107-0900-05/full-00.mp3.b64",
+  "/assets/audio/totw-20261107-0900-05/full-01.mp3.b64",
+  "/assets/audio/totw-20261107-0900-05/full-02.mp3.b64",
+  "/assets/audio/totw-20261107-0900-05/full-03.mp3.b64",
+  "/assets/audio/totw-20261107-0900-05/full-04.mp3.b64",
+  "/assets/audio/totw-20261107-0900-05/full-05.mp3.b64",
+  "/assets/audio/totw-20261107-0900-05/full-06.mp3.b64",
+  "/assets/audio/totw-20261107-0900-05/full-07.mp3.b64",
+  "/assets/audio/totw-20261107-0900-05/full-08.mp3.b64",
+  "/assets/audio/totw-20261107-0900-05/full-09.mp3.b64",
+  "/assets/audio/totw-20261107-0900-05/full-10.mp3.b64",
+  "/assets/audio/totw-20261107-0900-05/full-11.mp3.b64",
+  "/assets/audio/totw-20261107-0900-05/full-12.mp3.b64"
+ ],
+ "audio_duration_secs": 120,
+ "audio_minutes": 2.0
+}
