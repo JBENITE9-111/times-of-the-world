@@ -1,0 +1,23 @@
+{
+ "item_id": "totw-20261107-0800-01",
+ "headline": "Russian ballistic missiles hit Kyiv overnight Nov 6-7, hours after Zelenskyy warned of a massive attack",
+ "dek": "[VERIFIED FACT -- Ukrainian Air Force via Kyiv Independent; Klitschko; Kyiv City Military Administration] Several waves of Russian ballistic missiles hit Kyiv overnight Nov 6-7. At least six ballistic missiles were launched at the city within minutes shortly before 23:00 Kyiv time Nov 6; further…",
+ "verification": "STRONGLY SUPPORTED",
+ "verification_class": "ok",
+ "sources": "Ukrainian Air Force; Kyiv Mayor Vitali Klitschko (Telegram); Kyiv City Military Administration (Telegram); President Volodymyr Zelenskyy, nightly video address Nov 6",
+ "fault_line": "Was this the 'massive attack' Zelenskyy warned of -- the opening of Russia's winter energy campaign -- or a warning shot three days before the Abu Dhabi talks? And who pays: the grid or the negotiating table?",
+ "significance": 3,
+ "demand": 4,
+ "date_led": "2026-11-07",
+ "sections": {
+  "what_happened": "[VERIFIED FACT -- Ukrainian Air Force via Kyiv Independent; Klitschko; Kyiv City Military Administration] Several waves of Russian ballistic missiles hit Kyiv overnight Nov 6-7. At least six ballistic missiles were launched at the city within minutes shortly before 23:00 Kyiv time Nov 6; further waves at ~01:00, 03:04 and 03:30 Nov 7, with Kyiv Independent journalists reporting at least six more loud blasts after 01:00. Two people injured in Kyiv city (KCMA), plus a third victim in the surrounding region (Kyiv Independent total: 3 injured). Damage: a five-storey residential building in Solomianskyi district hit by debris, windows shattered at another five-storey building, a fire at a non-residential building in Solomianskyi, a kindergarten in the same district damaged; a Russian drone hit Shevchenkivskyi district, debris set cars on fire. Full damage inventory not yet released; attacks reported ongoing at time of publication. [PRIMARY-SOURCE QUOTE -- Zelenskyy, nightly address Nov 6] Hours earlier Zelenskyy warned that Russian intelligence pointed to another massive Russian strike on energy targets, bridges and other infrastructure. [CONTEXT] Three days before US-brokered Ukraine-Russia talks open in Abu Dhabi Nov 10-11 (Witkoff). [PORTWATCH -- N/A] No shipping/chokepoint element; newest IMF PortWatch snapshot remains portwatch-2026-10-26.json, stale=true, latest observation 2026-10-18.",
+  "what_verified": "2 distinct declared-tier publisher families: Reuters (T1 wire -- original reporting, carried by Straits Times T3, Arab News T3, GMA, 985theriver, KSEV as the same Reuters family) and Kyiv Independent (T2). Kyiv Post, UNN and mezha.net report the same facts (2 injured, kindergarten damaged, Solomianskyi) but are UNDECLARED in the registry -- attribution only, do not count. No contradiction from any source on the strike itself.",
+  "what_disputed": "Russia's Defence Ministry said its overnight strikes hit an 'energy storage battery park' in Bila Tserkva and a cargo ship in Odesa (via GenZ NewZ summary of the ministry account) -- a different target list, no direct denial of the Kyiv strike. Full Kyiv damage inventory not yet released; Kyiv Independent notes attacks were ongoing at publication, so casualty/damage figures may rise.",
+  "why_matters": "Zelenskyy warned it hours before -- then six ballistic missiles hit Kyiv in minutes. A kindergarten took the blast. Three days before the Abu Dhabi talks.",
+  "context": "Background: IN-WINDOW -- Russian ballistic missiles hit Kyiv overnight Nov 6-7, hours after Zelenskyy warned of a massive attack; kindergarten and homes damaged, 2-3 injured"
+ },
+ "totw_analysis": "Our read: Zelenskyy warned it hours before -- then six ballistic missiles hit Kyiv in minutes. A kindergarten took the blast. Three days before the Abu Dhabi talks. The fault line our audience is arguing over: Was this the 'massive attack' Zelenskyy warned of -- the opening of Russia's winter energy campaign -- or a warning shot three days before the Abu Dhabi talks? And who pays: the grid or the negotiating table?",
+ "related_short_title": "Zelenskyy Warned of the Attack Hours Before — Then 6 Missiles Hit Kyiv in Minutes",
+ "related_short_url": null,
+ "narration_chars": 3489
+}
