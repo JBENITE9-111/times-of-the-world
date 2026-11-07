@@ -1,0 +1,23 @@
+{
+ "item_id": "totw-20261107-1000-01",
+ "headline": "[VERIFIED FACT -- IMO statement] At least 25 seafarers have been killed in the Strait of Hormuz as a result of the US-Iran",
+ "dek": "[VERIFIED FACT -- IMO statement] At least 25 seafarers have been killed in the Strait of Hormuz as a result of the US-Iran conflict since Feb 28, 2026. The latest victim was a seafarer aboard the tanker Velos Sapphire, attacked Nov 5 (already recorded 1900-01/2200-02 Nov 6; the +1 fatality vs the…",
+ "verification": "STRONGLY SUPPORTED",
+ "verification_class": "ok",
+ "sources": "International Maritime Organization (IMO), UN specialized agency, via Secretary-General Arsenio Dominguez; relayed by Trend.az",
+ "fault_line": "25 dead seafarers and 130 attacks -- is Hormuz a war zone the world is pretending is still open, or a blockade being enforced one tanker at a time?",
+ "significance": 3,
+ "demand": 4,
+ "date_led": "2026-11-07",
+ "sections": {
+  "what_happened": "[VERIFIED FACT -- IMO statement] At least 25 seafarers have been killed in the Strait of Hormuz as a result of the US-Iran conflict since Feb 28, 2026. The latest victim was a seafarer aboard the tanker Velos Sapphire, attacked Nov 5 (already recorded 1900-01/2200-02 Nov 6; the +1 fatality vs the 24 previously recorded is the Velos Sapphire victim). The number of attacks on commercial vessels in the region has reached 130 since late February, and thousands of seafarers remain stranded in the Persian Gulf. [CONTEXT -- update vs prior record] The 0200-02/1900-01 records carried IMO's earlier count of 129 incidents / 24 fatalities; this is the +1/+1 update. [PORTWATCH -- STALE] Newest IMF PortWatch snapshot remains portwatch-2026-10-26.json, stale=true, latest observation 2026-10-18 (Hormuz 4 transits, 7-day avg 3.7 vs 2025 baseline 85.5/day). No fresh counted transit figure exists; the franchise check 0600-02 (hormuz.now) stands: 12 crossings Nov 6, 7-day avg 8.9/day (~10% of normal).",
+  "what_verified": "1 distinct declared-tier publisher family: IMO (T1, OFFICIAL-PD) -- the primary source itself. Trend.az relay has NO declared tier in the registry and does not count.",
+  "what_disputed": "None on the toll itself. Note the running discrepancy: IRGC claims of tankers hitting mines (see 1000-04) are NOT part of the IMO-counted 130 and remain unverified by maritime officials (Reuters).",
+  "why_matters": "The UN's shipping agency just put a number on it: 25 seafarers killed, 130 ships attacked in Hormuz since February -- and thousands of sailors are still stranded in the Gulf while the world argues about whether the strait is open.",
+  "context": "Background: MISSED CATCH-UP (IMO statement via Trend.az, published 2026-11-07T02:16+04:00, updated 05:14 ; zero '25 seafarers'/'130 attacks' mentions in any prior Nov 6/7 scan -- grep confirms) -- IMO: at least 25 seafarers killed in Strait of Hormuz since Feb 28; 130 attacks on commercial vessels; thousands of seafarers stranded"
+ },
+ "totw_analysis": "Our read: The UN's shipping agency just put a number on it: 25 seafarers killed, 130 ships attacked in Hormuz since February -- and thousands of sailors are still stranded in the Gulf while the world argues about whether the strait is open. The fault line our audience is arguing over: 25 dead seafarers and 130 attacks -- is Hormuz a war zone the world is pretending is still open, or a blockade being enforced one tanker at a time?",
+ "related_short_title": "12 in a Week — Ship Attacks in Hormuz Just Hit Their Wartime Record",
+ "related_short_url": "https://youtube.com/shorts/0SqwA5PlmbY",
+ "narration_chars": 2893
+}
