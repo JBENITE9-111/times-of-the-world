@@ -1,0 +1,34 @@
+{
+ "item_id": "totw-20261108-0300-03",
+ "headline": "Civil Defence received 2,166 distress calls since the storm began and answered only 218",
+ "dek": "[PARTIALLY SUPPORTED -- Civil Defence's own count] Gaza's Civil Defence received 2,166 distress calls since the first winter storm began on Friday evening Nov 6/7 and its crews were able to respond to only 218 -- a ~10% response rate -- as rainwater flooded dozens of displacement camps and…",
+ "verification": "DEVELOPING",
+ "verification_class": "warn",
+ "sources": "Gaza Civil Defence via Al Mayadeen; newscord carry (updated 2026-11-07T18:01:25Z); Al Jazeera (1,500 calls in 10 hours, 30-40cm rise)",
+ "fault_line": "Who is responsible for the tents flooding -- Israel blocking shelter materials at the crossings, or a storm no agency could handle with the crossings shut and the drainage system destroyed?",
+ "significance": 2,
+ "demand": 3,
+ "date_led": "2026-11-07",
+ "sections": {
+  "what_happened": "[PARTIALLY SUPPORTED -- Civil Defence's own count] Gaza's Civil Defence received 2,166 distress calls since the first winter storm began on Friday evening Nov 6/7 and its crews were able to respond to only 218 -- a ~10% response rate -- as rainwater flooded dozens of displacement camps and…",
+  "what_verified": "Reported by the sources listed below; independent verification ongoing.",
+  "what_disputed": "No counter-evidence recorded in this scan.",
+  "why_matters": "",
+  "context": "Background: Civil Defence received 2,166 distress calls since the storm began and answered only 218"
+ },
+ "totw_analysis": "Our read: The fault line our audience is arguing over: still forming.",
+ "related_short_title": null,
+ "related_short_url": null,
+ "narration_chars": 1070,
+ "audio_chunks": [
+  "/assets/audio/totw-20261108-0300-03/full-00.mp3.b64",
+  "/assets/audio/totw-20261108-0300-03/full-01.mp3.b64",
+  "/assets/audio/totw-20261108-0300-03/full-02.mp3.b64",
+  "/assets/audio/totw-20261108-0300-03/full-03.mp3.b64",
+  "/assets/audio/totw-20261108-0300-03/full-04.mp3.b64",
+  "/assets/audio/totw-20261108-0300-03/full-05.mp3.b64",
+  "/assets/audio/totw-20261108-0300-03/full-06.mp3.b64"
+ ],
+ "audio_duration_secs": 64,
+ "audio_minutes": 1.1
+}
